@@ -10,7 +10,7 @@ Cursando Análise e Desenvolvimento de Sistemas pela Estácio de Sá
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lscoelho83&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lscoelho83&theme=merko)](https://lscoelho83.github.io/)
 
 # Projetos
 
