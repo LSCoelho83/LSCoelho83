@@ -18,4 +18,4 @@ Cursando Análise e Desenvolvimento de Sistemas pela Estácio de Sá
 
 # Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/lucianont)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](http://www.linkedin.com/in/lucianont)
