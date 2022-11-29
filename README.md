@@ -14,7 +14,7 @@ Cursando Análise e Desenvolvimento de Sistemas pela Estácio de Sá
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lscoelho83&repo=lscoelho83.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lscoelho83&repo=lscoelho83.github.io)](https://lscoelho83.github.io/)
 
 # Contatos
 
